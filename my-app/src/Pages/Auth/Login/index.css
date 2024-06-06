@@ -1,0 +1,4 @@
+.login-title{ background-color:tomato;text-align: center;padding: 15px;text-transform: uppercase; }
+.login-form { padding-left: 10%;padding-right: 10%;padding-top: 15px;padding-bottom: 5%; }
+.login-container { border: 1px solid #ccc;border-radius: 8px; }
+
